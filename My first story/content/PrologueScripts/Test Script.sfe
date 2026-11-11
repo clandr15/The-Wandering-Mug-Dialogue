@@ -82,6 +82,39 @@
                 "width": 256,
                 "height": 140
             }
+        },
+        {
+            "id": "2c417e83aae24918826a49cc629ae134",
+            "position": {
+                "x": 930.3895677748043,
+                "y": 19.327292507384556
+            },
+            "type": "dialogue",
+            "data": {
+                "title": "Dialogue",
+                "text": "hi its me moon",
+                "options": [],
+                "image": "",
+                "imageReset": false,
+                "character": "",
+                "audio": "",
+                "audioLoop": false,
+                "audioReset": false,
+                "audioAdvanceOnEnd": false,
+                "audioAllowSkip": false,
+                "imageUseVarInput": false,
+                "characterUseVarInput": false,
+                "audioUseVarInput": false
+            },
+            "style": {
+                "width": 256,
+                "height": 140
+            },
+            "zIndex": 1,
+            "measured": {
+                "width": 256,
+                "height": 140
+            }
         }
     ],
     "edges": [
@@ -98,6 +131,13 @@
             "sourceHandle": "source-b46f790297fb456b96f63bf3f7623bbd-",
             "target": "9e7403065f5344f8bf023b06c374feeb",
             "targetHandle": "target-9e7403065f5344f8bf023b06c374feeb-"
+        },
+        {
+            "id": "0b366d351b0141409325d7dd6099f1ba",
+            "source": "9e7403065f5344f8bf023b06c374feeb",
+            "sourceHandle": "source-9e7403065f5344f8bf023b06c374feeb-",
+            "target": "2c417e83aae24918826a49cc629ae134",
+            "targetHandle": "target-2c417e83aae24918826a49cc629ae134-"
         }
     ],
     "variables": [],
