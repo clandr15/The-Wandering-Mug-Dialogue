@@ -1,0 +1,43 @@
+{
+  "startNode": "0",
+  "nodes": {
+    "0": {
+      "type": "start",
+      "id": "0"
+    },
+    "a4df9e23d54343b389180ae2edbd7468": {
+      "type": "dialogue",
+      "id": "a4df9e23d54343b389180ae2edbd7468",
+      "title": "a4df9e23d54343b389180ae2edbd7468.title",
+      "textBlocks": [
+        {
+          "id": "e58aa0c704894af5bb2b7ed93cccdf6a",
+          "text": "e58aa0c704894af5bb2b7ed93cccdf6a"
+        },
+        {
+          "id": "30304810f36841d982cc6ea51cb79e91",
+          "text": "30304810f36841d982cc6ea51cb79e91"
+        }
+      ],
+      "choices": []
+    }
+  },
+  "connections": [
+    {
+      "id": "6e470b0f363b47bc938806683a721422",
+      "source": "0",
+      "target": "a4df9e23d54343b389180ae2edbd7468",
+      "sourceHandle": "source-0-",
+      "targetHandle": "target-a4df9e23d54343b389180ae2edbd7468-"
+    }
+  ],
+  "variables": {},
+  "strings": {
+    "en": {
+      "a4df9e23d54343b389180ae2edbd7468.title": "Dialogue",
+      "e58aa0c704894af5bb2b7ed93cccdf6a": "New Text",
+      "30304810f36841d982cc6ea51cb79e91": "New Text"
+    }
+  },
+  "assets": {}
+}

@@ -1,0 +1,125 @@
+{
+    "nodes": [
+        {
+            "id": "0",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "start",
+            "data": {},
+            "sourcePosition": "right",
+            "deletable": false,
+            "measured": {
+                "width": 128,
+                "height": 40
+            },
+            "zIndex": 1
+        },
+        {
+            "id": "9179a806d4f8428191c8586f592eb768",
+            "position": {
+                "x": 179.84932949177426,
+                "y": 28.117053117413334
+            },
+            "type": "dialogue",
+            "data": {
+                "title": "Dialogue",
+                "text": "I want to see what happens if we dont have any branches.",
+                "options": [],
+                "image": "",
+                "imageReset": false,
+                "character": "",
+                "audio": "",
+                "audioLoop": false,
+                "audioReset": false,
+                "audioAdvanceOnEnd": false,
+                "audioAllowSkip": false,
+                "imageUseVarInput": false,
+                "characterUseVarInput": false,
+                "audioUseVarInput": false
+            },
+            "style": {
+                "width": 256,
+                "height": 140
+            },
+            "zIndex": 1,
+            "measured": {
+                "width": 256,
+                "height": 140
+            }
+        },
+        {
+            "id": "c6dbe745125c4d7ca326241580f10861",
+            "position": {
+                "x": 502.63356724594104,
+                "y": 44.19883008737182
+            },
+            "type": "dialogue",
+            "data": {
+                "title": "Dialogue",
+                "text": "this is what happens",
+                "options": [],
+                "image": "",
+                "imageReset": false,
+                "character": "",
+                "audio": "",
+                "audioLoop": false,
+                "audioReset": false,
+                "audioAdvanceOnEnd": false,
+                "audioAllowSkip": false,
+                "imageUseVarInput": false,
+                "characterUseVarInput": false,
+                "audioUseVarInput": false
+            },
+            "style": {
+                "width": 256,
+                "height": 140
+            },
+            "zIndex": 1,
+            "measured": {
+                "width": 256,
+                "height": 140
+            }
+        },
+        {
+            "id": "23bad1ba3b7248ccbfc389f64b3d038e",
+            "position": {
+                "x": 835.1817410175826,
+                "y": 103.50037937764137
+            },
+            "type": "end",
+            "data": {},
+            "zIndex": 1,
+            "measured": {
+                "width": 128,
+                "height": 40
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "837bf8f42955476e88a6f1989f677baa",
+            "source": "0",
+            "sourceHandle": "source-0-",
+            "target": "9179a806d4f8428191c8586f592eb768",
+            "targetHandle": "target-9179a806d4f8428191c8586f592eb768-"
+        },
+        {
+            "id": "0538933ecd134c3a9755f1db7e2e7919",
+            "source": "9179a806d4f8428191c8586f592eb768",
+            "sourceHandle": "source-9179a806d4f8428191c8586f592eb768-",
+            "target": "c6dbe745125c4d7ca326241580f10861",
+            "targetHandle": "target-c6dbe745125c4d7ca326241580f10861-"
+        },
+        {
+            "id": "12b743800bf144e9bbb4a2558543b63f",
+            "source": "c6dbe745125c4d7ca326241580f10861",
+            "sourceHandle": "source-c6dbe745125c4d7ca326241580f10861-",
+            "target": "23bad1ba3b7248ccbfc389f64b3d038e",
+            "targetHandle": "target-23bad1ba3b7248ccbfc389f64b3d038e-"
+        }
+    ],
+    "variables": [],
+    "flows": []
+}

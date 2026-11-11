@@ -1,0 +1,22 @@
+{
+    "id": "da_9b5180e703674da1b3c6af79031556b6",
+    "name": "Tavern Keep",
+    "parent": null,
+    "variables": [
+        {
+            "id": "cf_name",
+            "name": "Name",
+            "type": "string",
+            "value": "Tavern Keep"
+        },
+        {
+            "id": "cf_image",
+            "name": "Image",
+            "type": "image",
+            "value": "Characters/TavernKeep.png"
+        }
+    ],
+    "overrides": {},
+    "previewVariableId": "cf_image",
+    "layout": {}
+}

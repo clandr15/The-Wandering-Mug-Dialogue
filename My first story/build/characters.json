@@ -1,0 +1,32 @@
+{
+  "characters": {
+    "characters\\tavern keep.sfc": {
+      "name": "da_9b5180e703674da1b3c6af79031556b6.cf_name",
+      "image": "asset_image_1",
+      "variables": {}
+    },
+    "characters\\dragon.sfc": {
+      "name": "da_d15e981a0b8845bb9bcedd356a0bfbd7.cf_name",
+      "image": "asset_image_2",
+      "variables": {}
+    }
+  },
+  "strings": {
+    "en": {
+      "da_9b5180e703674da1b3c6af79031556b6.cf_name": "Tavern Keep",
+      "da_d15e981a0b8845bb9bcedd356a0bfbd7.cf_name": "Dragon"
+    }
+  },
+  "assets": {
+    "asset_image_1": {
+      "id": "asset_image_1",
+      "type": "image",
+      "path": "characters/tavernkeep.png"
+    },
+    "asset_image_2": {
+      "id": "asset_image_2",
+      "type": "image",
+      "path": "characters/charizard.png"
+    }
+  }
+}

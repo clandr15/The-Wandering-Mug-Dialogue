@@ -1,0 +1,94 @@
+{
+  "startNode": "0",
+  "nodes": {
+    "0": {
+      "type": "start",
+      "id": "0"
+    },
+    "bffa64ceb3944c9db9793138eae0509e": {
+      "type": "dialogue",
+      "id": "bffa64ceb3944c9db9793138eae0509e",
+      "title": "bffa64ceb3944c9db9793138eae0509e.title",
+      "text": "bffa64ceb3944c9db9793138eae0509e.text",
+      "choices": [
+        {
+          "id": "a6f62813b9c549dd896fc341003586ce",
+          "text": "a6f62813b9c549dd896fc341003586ce"
+        },
+        {
+          "id": "dea473344e8144a18e045142c2a101f2",
+          "text": "dea473344e8144a18e045142c2a101f2"
+        }
+      ]
+    },
+    "0c8603a7899847b8a9163a41bf395655": {
+      "type": "dialogue",
+      "id": "0c8603a7899847b8a9163a41bf395655",
+      "title": "0c8603a7899847b8a9163a41bf395655.title",
+      "text": "0c8603a7899847b8a9163a41bf395655.text",
+      "choices": []
+    },
+    "f33a39ed20e34eddb28e1355da9f84e0": {
+      "type": "dialogue",
+      "id": "f33a39ed20e34eddb28e1355da9f84e0",
+      "title": "f33a39ed20e34eddb28e1355da9f84e0.title",
+      "text": "f33a39ed20e34eddb28e1355da9f84e0.text",
+      "choices": []
+    },
+    "153e6a1e426947cea32be6f1877a0031": {
+      "type": "end",
+      "id": "153e6a1e426947cea32be6f1877a0031"
+    }
+  },
+  "connections": [
+    {
+      "id": "xy-edge__0source-0--bffa64ceb3944c9db9793138eae0509etarget-bffa64ceb3944c9db9793138eae0509e-",
+      "source": "0",
+      "target": "bffa64ceb3944c9db9793138eae0509e",
+      "sourceHandle": "source-0-",
+      "targetHandle": "target-bffa64ceb3944c9db9793138eae0509e-"
+    },
+    {
+      "id": "1beaf17607c64dc2b859eee9c8245de5",
+      "source": "bffa64ceb3944c9db9793138eae0509e",
+      "target": "0c8603a7899847b8a9163a41bf395655",
+      "sourceHandle": "source-bffa64ceb3944c9db9793138eae0509e-a6f62813b9c549dd896fc341003586ce",
+      "targetHandle": "target-0c8603a7899847b8a9163a41bf395655-"
+    },
+    {
+      "id": "d3dd94f3969749c7981c0e3bedd3310a",
+      "source": "bffa64ceb3944c9db9793138eae0509e",
+      "target": "f33a39ed20e34eddb28e1355da9f84e0",
+      "sourceHandle": "source-bffa64ceb3944c9db9793138eae0509e-dea473344e8144a18e045142c2a101f2",
+      "targetHandle": "target-f33a39ed20e34eddb28e1355da9f84e0-"
+    },
+    {
+      "id": "c1b301dc23a449f6b63cc44f45266dcd",
+      "source": "0c8603a7899847b8a9163a41bf395655",
+      "target": "153e6a1e426947cea32be6f1877a0031",
+      "sourceHandle": "source-0c8603a7899847b8a9163a41bf395655-",
+      "targetHandle": "target-153e6a1e426947cea32be6f1877a0031-"
+    },
+    {
+      "id": "xy-edge__f33a39ed20e34eddb28e1355da9f84e0source-f33a39ed20e34eddb28e1355da9f84e0--153e6a1e426947cea32be6f1877a0031target-153e6a1e426947cea32be6f1877a0031-",
+      "source": "f33a39ed20e34eddb28e1355da9f84e0",
+      "target": "153e6a1e426947cea32be6f1877a0031",
+      "sourceHandle": "source-f33a39ed20e34eddb28e1355da9f84e0-",
+      "targetHandle": "target-153e6a1e426947cea32be6f1877a0031-"
+    }
+  ],
+  "variables": {},
+  "strings": {
+    "en": {
+      "bffa64ceb3944c9db9793138eae0509e.title": "Dialogue",
+      "bffa64ceb3944c9db9793138eae0509e.text": "You wake up in a mysterious forest. the morning mist swirls around ancient trees. Two paths stretch before you.",
+      "a6f62813b9c549dd896fc341003586ce": "Take the left path.",
+      "dea473344e8144a18e045142c2a101f2": "Take the right path. ",
+      "0c8603a7899847b8a9163a41bf395655.title": "Left path",
+      "0c8603a7899847b8a9163a41bf395655.text": "you take the left winding path. the trees grow denser, and you hear the sound of running water ahead. ",
+      "f33a39ed20e34eddb28e1355da9f84e0.title": "Dialogue",
+      "f33a39ed20e34eddb28e1355da9f84e0.text": "you venture down the right path. Sunlight breaks through the canopy, an dyou spot a small cottage...."
+    }
+  },
+  "assets": {}
+}

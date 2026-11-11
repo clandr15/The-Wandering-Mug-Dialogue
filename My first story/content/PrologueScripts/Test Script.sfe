@@ -1,0 +1,64 @@
+{
+    "nodes": [
+        {
+            "id": "0",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "start",
+            "data": {},
+            "sourcePosition": "right",
+            "deletable": false,
+            "measured": {
+                "width": 128,
+                "height": 40
+            },
+            "zIndex": 1
+        },
+        {
+            "id": "b46f790297fb456b96f63bf3f7623bbd",
+            "position": {
+                "x": 177.02603149414062,
+                "y": 1.1666641235351562
+            },
+            "type": "dialogue",
+            "data": {
+                "title": "Dialogue",
+                "text": "this is a test\n",
+                "options": [],
+                "image": "",
+                "imageReset": false,
+                "character": "",
+                "audio": "",
+                "audioLoop": false,
+                "audioReset": false,
+                "audioAdvanceOnEnd": false,
+                "audioAllowSkip": false,
+                "imageUseVarInput": false,
+                "characterUseVarInput": false,
+                "audioUseVarInput": false
+            },
+            "style": {
+                "width": 256,
+                "height": 140
+            },
+            "zIndex": 1,
+            "measured": {
+                "width": 256,
+                "height": 140
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "6c3e1011480b471a9b2166ebf393a10e",
+            "source": "0",
+            "sourceHandle": "source-0-",
+            "target": "b46f790297fb456b96f63bf3f7623bbd",
+            "targetHandle": "target-b46f790297fb456b96f63bf3f7623bbd-"
+        }
+    ],
+    "variables": [],
+    "flows": []
+}

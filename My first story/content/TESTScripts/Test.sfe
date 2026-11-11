@@ -1,0 +1,127 @@
+{
+    "nodes": [
+        {
+            "id": "0",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "start",
+            "data": {},
+            "sourcePosition": "right",
+            "deletable": false,
+            "measured": {
+                "width": 128,
+                "height": 40
+            },
+            "zIndex": 1
+        },
+        {
+            "id": "cdbeeef084dd48c58ba8d06e094a52a9",
+            "position": {
+                "x": 227.02603149414062,
+                "y": 20.666664123535156
+            },
+            "type": "dialogue",
+            "data": {
+                "title": "Dialogue",
+                "text": "this is what I want the game to say.",
+                "options": [],
+                "image": "",
+                "imageReset": false,
+                "character": "",
+                "audio": "",
+                "audioLoop": false,
+                "audioReset": false,
+                "audioAdvanceOnEnd": false,
+                "audioAllowSkip": false,
+                "imageUseVarInput": false,
+                "characterUseVarInput": false,
+                "audioUseVarInput": false,
+                "textBlocks": []
+            },
+            "style": {
+                "width": 256,
+                "height": 250
+            },
+            "zIndex": 1,
+            "measured": {
+                "width": 256,
+                "height": 250
+            },
+            "height": 250
+        },
+        {
+            "id": "7e414b02ec8649538edbd2779446047a",
+            "position": {
+                "x": 597.5260314941406,
+                "y": 159.66666412353516
+            },
+            "type": "dialogue",
+            "data": {
+                "title": "Dialogue",
+                "text": "hi zed",
+                "options": [],
+                "image": "",
+                "imageReset": false,
+                "character": "",
+                "audio": "",
+                "audioLoop": false,
+                "audioReset": false,
+                "audioAdvanceOnEnd": false,
+                "audioAllowSkip": false,
+                "imageUseVarInput": false,
+                "characterUseVarInput": false,
+                "audioUseVarInput": false
+            },
+            "style": {
+                "width": 256,
+                "height": 140
+            },
+            "zIndex": 1,
+            "measured": {
+                "width": 256,
+                "height": 140
+            }
+        },
+        {
+            "id": "38bbfd9e0ed646f0abdb57bb3375e7d5",
+            "position": {
+                "x": 1026.5260314941406,
+                "y": 134.16666412353516
+            },
+            "type": "end",
+            "data": {},
+            "zIndex": 1,
+            "measured": {
+                "width": 128,
+                "height": 40
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "22cf2b21af5444e282b7b130e092c8e1",
+            "source": "0",
+            "sourceHandle": "source-0-",
+            "target": "cdbeeef084dd48c58ba8d06e094a52a9",
+            "targetHandle": "target-cdbeeef084dd48c58ba8d06e094a52a9-"
+        },
+        {
+            "id": "a2048db863634682932bcaa4f240d807",
+            "source": "7e414b02ec8649538edbd2779446047a",
+            "sourceHandle": "source-7e414b02ec8649538edbd2779446047a-",
+            "target": "38bbfd9e0ed646f0abdb57bb3375e7d5",
+            "targetHandle": "target-38bbfd9e0ed646f0abdb57bb3375e7d5-"
+        },
+        {
+            "source": "cdbeeef084dd48c58ba8d06e094a52a9",
+            "sourceHandle": "source-cdbeeef084dd48c58ba8d06e094a52a9-",
+            "target": "7e414b02ec8649538edbd2779446047a",
+            "targetHandle": "target-7e414b02ec8649538edbd2779446047a-",
+            "id": "xy-edge__cdbeeef084dd48c58ba8d06e094a52a9source-cdbeeef084dd48c58ba8d06e094a52a9--7e414b02ec8649538edbd2779446047atarget-7e414b02ec8649538edbd2779446047a-"
+        }
+    ],
+    "variables": [],
+    "flows": []
+}

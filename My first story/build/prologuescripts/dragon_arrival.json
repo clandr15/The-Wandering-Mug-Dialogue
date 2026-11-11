@@ -1,0 +1,406 @@
+{
+  "startNode": "0",
+  "nodes": {
+    "0": {
+      "type": "start",
+      "id": "0"
+    },
+    "123506da36de44038f58228b459ce26f": {
+      "type": "dialogue",
+      "id": "123506da36de44038f58228b459ce26f",
+      "title": "123506da36de44038f58228b459ce26f.title",
+      "text": "123506da36de44038f58228b459ce26f.text",
+      "choices": [],
+      "character": "characters\\dragon.sfc",
+      "characterRefId": "da_d15e981a0b8845bb9bcedd356a0bfbd7"
+    },
+    "5e147730ddee484cbc5db5652e1553d5": {
+      "type": "dialogue",
+      "id": "5e147730ddee484cbc5db5652e1553d5",
+      "title": "5e147730ddee484cbc5db5652e1553d5.title",
+      "text": "5e147730ddee484cbc5db5652e1553d5.text",
+      "choices": [],
+      "character": "characters\\dragon.sfc",
+      "characterRefId": "da_d15e981a0b8845bb9bcedd356a0bfbd7"
+    },
+    "df4c92641eb84ef89bade948f696a5bb": {
+      "type": "dialogue",
+      "id": "df4c92641eb84ef89bade948f696a5bb",
+      "title": "df4c92641eb84ef89bade948f696a5bb.title",
+      "text": "df4c92641eb84ef89bade948f696a5bb.text",
+      "choices": [],
+      "character": "characters\\dragon.sfc",
+      "characterRefId": "da_d15e981a0b8845bb9bcedd356a0bfbd7"
+    },
+    "fc975ebdad0d4abd9dc0172c8d4f0876": {
+      "type": "dialogue",
+      "id": "fc975ebdad0d4abd9dc0172c8d4f0876",
+      "title": "fc975ebdad0d4abd9dc0172c8d4f0876.title",
+      "text": "fc975ebdad0d4abd9dc0172c8d4f0876.text",
+      "choices": [],
+      "character": "characters\\tavern keep.sfc",
+      "characterRefId": "da_9b5180e703674da1b3c6af79031556b6"
+    },
+    "7c046b64da074d568a1e08db154ad441": {
+      "type": "dialogue",
+      "id": "7c046b64da074d568a1e08db154ad441",
+      "title": "7c046b64da074d568a1e08db154ad441.title",
+      "text": "7c046b64da074d568a1e08db154ad441.text",
+      "choices": [],
+      "character": "characters\\dragon.sfc",
+      "characterRefId": "da_d15e981a0b8845bb9bcedd356a0bfbd7"
+    },
+    "dc8fe040fb7440d5b96923a8f7e20099": {
+      "type": "dialogue",
+      "id": "dc8fe040fb7440d5b96923a8f7e20099",
+      "title": "dc8fe040fb7440d5b96923a8f7e20099.title",
+      "text": "dc8fe040fb7440d5b96923a8f7e20099.text",
+      "choices": [],
+      "character": "characters\\tavern keep.sfc",
+      "characterRefId": "da_9b5180e703674da1b3c6af79031556b6"
+    },
+    "317dfb207c0d428a9ee18902af7badff": {
+      "type": "dialogue",
+      "id": "317dfb207c0d428a9ee18902af7badff",
+      "title": "317dfb207c0d428a9ee18902af7badff.title",
+      "text": "317dfb207c0d428a9ee18902af7badff.text",
+      "choices": [],
+      "character": "characters\\dragon.sfc",
+      "characterRefId": "da_d15e981a0b8845bb9bcedd356a0bfbd7"
+    },
+    "cd492a0833704027adebf471e90656b1": {
+      "type": "dialogue",
+      "id": "cd492a0833704027adebf471e90656b1",
+      "title": "cd492a0833704027adebf471e90656b1.title",
+      "text": "cd492a0833704027adebf471e90656b1.text",
+      "choices": [],
+      "character": "characters\\tavern keep.sfc",
+      "characterRefId": "da_9b5180e703674da1b3c6af79031556b6"
+    },
+    "820cc0abf2c242109f4535a764c10862": {
+      "type": "dialogue",
+      "id": "820cc0abf2c242109f4535a764c10862",
+      "title": "820cc0abf2c242109f4535a764c10862.title",
+      "text": "820cc0abf2c242109f4535a764c10862.text",
+      "choices": [],
+      "character": "characters\\dragon.sfc",
+      "characterRefId": "da_d15e981a0b8845bb9bcedd356a0bfbd7"
+    },
+    "dcbe89e323d24155a3f620d63921f3a5": {
+      "type": "dialogue",
+      "id": "dcbe89e323d24155a3f620d63921f3a5",
+      "title": "dcbe89e323d24155a3f620d63921f3a5.title",
+      "text": "dcbe89e323d24155a3f620d63921f3a5.text",
+      "choices": [],
+      "character": "characters\\tavern keep.sfc",
+      "characterRefId": "da_9b5180e703674da1b3c6af79031556b6"
+    },
+    "e054ae112958466e9b76b962c0a1cadb": {
+      "type": "dialogue",
+      "id": "e054ae112958466e9b76b962c0a1cadb",
+      "title": "e054ae112958466e9b76b962c0a1cadb.title",
+      "text": "e054ae112958466e9b76b962c0a1cadb.text",
+      "choices": [],
+      "character": "characters\\dragon.sfc",
+      "characterRefId": "da_d15e981a0b8845bb9bcedd356a0bfbd7"
+    },
+    "84b25925ca194e638b526e6789e77d63": {
+      "type": "dialogue",
+      "id": "84b25925ca194e638b526e6789e77d63",
+      "title": "84b25925ca194e638b526e6789e77d63.title",
+      "text": "84b25925ca194e638b526e6789e77d63.text",
+      "choices": [],
+      "character": "characters\\tavern keep.sfc",
+      "characterRefId": "da_9b5180e703674da1b3c6af79031556b6"
+    },
+    "84885fd5281749a594db3a7e26e89c17": {
+      "type": "dialogue",
+      "id": "84885fd5281749a594db3a7e26e89c17",
+      "title": "84885fd5281749a594db3a7e26e89c17.title",
+      "text": "84885fd5281749a594db3a7e26e89c17.text",
+      "choices": [],
+      "character": "characters\\dragon.sfc",
+      "characterRefId": "da_d15e981a0b8845bb9bcedd356a0bfbd7"
+    },
+    "734a14e9ca384eaf84cb4826a63ac09f": {
+      "type": "dialogue",
+      "id": "734a14e9ca384eaf84cb4826a63ac09f",
+      "title": "734a14e9ca384eaf84cb4826a63ac09f.title",
+      "text": "734a14e9ca384eaf84cb4826a63ac09f.text",
+      "choices": [],
+      "character": "characters\\tavern keep.sfc",
+      "characterRefId": "da_9b5180e703674da1b3c6af79031556b6"
+    },
+    "a8a1c2676357455e98f1c871d35b4618": {
+      "type": "dialogue",
+      "id": "a8a1c2676357455e98f1c871d35b4618",
+      "title": "a8a1c2676357455e98f1c871d35b4618.title",
+      "text": "a8a1c2676357455e98f1c871d35b4618.text",
+      "choices": [],
+      "character": "characters\\dragon.sfc",
+      "characterRefId": "da_d15e981a0b8845bb9bcedd356a0bfbd7"
+    },
+    "79d09b67323c463d99588f3aa2ccc7a3": {
+      "type": "dialogue",
+      "id": "79d09b67323c463d99588f3aa2ccc7a3",
+      "title": "79d09b67323c463d99588f3aa2ccc7a3.title",
+      "text": "79d09b67323c463d99588f3aa2ccc7a3.text",
+      "choices": [],
+      "character": "characters\\dragon.sfc",
+      "characterRefId": "da_d15e981a0b8845bb9bcedd356a0bfbd7"
+    },
+    "df28f6796f7c4fa9a8c823f63a989ba2": {
+      "type": "dialogue",
+      "id": "df28f6796f7c4fa9a8c823f63a989ba2",
+      "title": "df28f6796f7c4fa9a8c823f63a989ba2.title",
+      "text": "df28f6796f7c4fa9a8c823f63a989ba2.text",
+      "choices": [],
+      "character": "characters\\tavern keep.sfc",
+      "characterRefId": "da_9b5180e703674da1b3c6af79031556b6"
+    },
+    "fd4a4ac0b87c4329b5107a415f6cd25b": {
+      "type": "dialogue",
+      "id": "fd4a4ac0b87c4329b5107a415f6cd25b",
+      "title": "fd4a4ac0b87c4329b5107a415f6cd25b.title",
+      "text": "fd4a4ac0b87c4329b5107a415f6cd25b.text",
+      "choices": [],
+      "character": "characters\\dragon.sfc",
+      "characterRefId": "da_d15e981a0b8845bb9bcedd356a0bfbd7"
+    },
+    "4688172032284e098a963ef45ea33c2d": {
+      "type": "dialogue",
+      "id": "4688172032284e098a963ef45ea33c2d",
+      "title": "4688172032284e098a963ef45ea33c2d.title",
+      "text": "4688172032284e098a963ef45ea33c2d.text",
+      "choices": [],
+      "character": "characters\\tavern keep.sfc",
+      "characterRefId": "da_9b5180e703674da1b3c6af79031556b6"
+    },
+    "068e71f7d40346e59fc8db83c756c0aa": {
+      "type": "dialogue",
+      "id": "068e71f7d40346e59fc8db83c756c0aa",
+      "title": "068e71f7d40346e59fc8db83c756c0aa.title",
+      "text": "068e71f7d40346e59fc8db83c756c0aa.text",
+      "choices": [],
+      "character": "characters\\dragon.sfc",
+      "characterRefId": "da_d15e981a0b8845bb9bcedd356a0bfbd7"
+    },
+    "30aa981c40024a99bd764184c3c5aa79": {
+      "type": "dialogue",
+      "id": "30aa981c40024a99bd764184c3c5aa79",
+      "title": "30aa981c40024a99bd764184c3c5aa79.title",
+      "text": "30aa981c40024a99bd764184c3c5aa79.text",
+      "choices": [],
+      "character": "characters\\dragon.sfc",
+      "characterRefId": "da_d15e981a0b8845bb9bcedd356a0bfbd7"
+    },
+    "30d3b497acd8410da6f276acb3946d52": {
+      "type": "end",
+      "id": "30d3b497acd8410da6f276acb3946d52"
+    }
+  },
+  "connections": [
+    {
+      "id": "70e768126d6345a18c8799b3845988f0",
+      "source": "0",
+      "target": "123506da36de44038f58228b459ce26f",
+      "sourceHandle": "source-0-",
+      "targetHandle": "target-123506da36de44038f58228b459ce26f-"
+    },
+    {
+      "id": "f87afcb25e88420c815edd374a5a452b",
+      "source": "123506da36de44038f58228b459ce26f",
+      "target": "5e147730ddee484cbc5db5652e1553d5",
+      "sourceHandle": "source-123506da36de44038f58228b459ce26f-",
+      "targetHandle": "target-5e147730ddee484cbc5db5652e1553d5-"
+    },
+    {
+      "id": "68c2ba7aabe64befabbdb39cb11145cd",
+      "source": "5e147730ddee484cbc5db5652e1553d5",
+      "target": "df4c92641eb84ef89bade948f696a5bb",
+      "sourceHandle": "source-5e147730ddee484cbc5db5652e1553d5-",
+      "targetHandle": "target-df4c92641eb84ef89bade948f696a5bb-"
+    },
+    {
+      "id": "f7031f4ef8734466808726850464d632",
+      "source": "df4c92641eb84ef89bade948f696a5bb",
+      "target": "fc975ebdad0d4abd9dc0172c8d4f0876",
+      "sourceHandle": "source-df4c92641eb84ef89bade948f696a5bb-",
+      "targetHandle": "target-fc975ebdad0d4abd9dc0172c8d4f0876-"
+    },
+    {
+      "id": "a0056c9196f44c14a49d397cde1d2ae4",
+      "source": "fc975ebdad0d4abd9dc0172c8d4f0876",
+      "target": "7c046b64da074d568a1e08db154ad441",
+      "sourceHandle": "source-fc975ebdad0d4abd9dc0172c8d4f0876-",
+      "targetHandle": "target-7c046b64da074d568a1e08db154ad441-"
+    },
+    {
+      "id": "be3b5415fd054814bb24cd22d9117e16",
+      "source": "7c046b64da074d568a1e08db154ad441",
+      "target": "dc8fe040fb7440d5b96923a8f7e20099",
+      "sourceHandle": "source-7c046b64da074d568a1e08db154ad441-",
+      "targetHandle": "target-dc8fe040fb7440d5b96923a8f7e20099-"
+    },
+    {
+      "id": "0b86ea856c2c4015a2ed76ea3536bd12",
+      "source": "dc8fe040fb7440d5b96923a8f7e20099",
+      "target": "317dfb207c0d428a9ee18902af7badff",
+      "sourceHandle": "source-dc8fe040fb7440d5b96923a8f7e20099-",
+      "targetHandle": "target-317dfb207c0d428a9ee18902af7badff-"
+    },
+    {
+      "id": "66527b25b16147668aa7a1f8b4ab3f65",
+      "source": "317dfb207c0d428a9ee18902af7badff",
+      "target": "cd492a0833704027adebf471e90656b1",
+      "sourceHandle": "source-317dfb207c0d428a9ee18902af7badff-",
+      "targetHandle": "target-cd492a0833704027adebf471e90656b1-"
+    },
+    {
+      "id": "833f9317e3f042ef8fa897238c13cdcf",
+      "source": "cd492a0833704027adebf471e90656b1",
+      "target": "820cc0abf2c242109f4535a764c10862",
+      "sourceHandle": "source-cd492a0833704027adebf471e90656b1-",
+      "targetHandle": "target-820cc0abf2c242109f4535a764c10862-"
+    },
+    {
+      "id": "0c6873b17a134caf842690ae110e366d",
+      "source": "820cc0abf2c242109f4535a764c10862",
+      "target": "dcbe89e323d24155a3f620d63921f3a5",
+      "sourceHandle": "source-820cc0abf2c242109f4535a764c10862-",
+      "targetHandle": "target-dcbe89e323d24155a3f620d63921f3a5-"
+    },
+    {
+      "id": "9f654718dc484f80b644b74c01df7ddd",
+      "source": "dcbe89e323d24155a3f620d63921f3a5",
+      "target": "e054ae112958466e9b76b962c0a1cadb",
+      "sourceHandle": "source-dcbe89e323d24155a3f620d63921f3a5-",
+      "targetHandle": "target-e054ae112958466e9b76b962c0a1cadb-"
+    },
+    {
+      "id": "4fe9db00e9994c3ca39dd36a1cadd9b4",
+      "source": "e054ae112958466e9b76b962c0a1cadb",
+      "target": "84b25925ca194e638b526e6789e77d63",
+      "sourceHandle": "source-e054ae112958466e9b76b962c0a1cadb-",
+      "targetHandle": "target-84b25925ca194e638b526e6789e77d63-"
+    },
+    {
+      "id": "93766d818c5045ddbce7dfd713091926",
+      "source": "84b25925ca194e638b526e6789e77d63",
+      "target": "84885fd5281749a594db3a7e26e89c17",
+      "sourceHandle": "source-84b25925ca194e638b526e6789e77d63-",
+      "targetHandle": "target-84885fd5281749a594db3a7e26e89c17-"
+    },
+    {
+      "id": "cdbb73f64075489c95c6d2191884c793",
+      "source": "84885fd5281749a594db3a7e26e89c17",
+      "target": "734a14e9ca384eaf84cb4826a63ac09f",
+      "sourceHandle": "source-84885fd5281749a594db3a7e26e89c17-",
+      "targetHandle": "target-734a14e9ca384eaf84cb4826a63ac09f-"
+    },
+    {
+      "id": "7986811aad464320874b75bc86d9b7f0",
+      "source": "734a14e9ca384eaf84cb4826a63ac09f",
+      "target": "a8a1c2676357455e98f1c871d35b4618",
+      "sourceHandle": "source-734a14e9ca384eaf84cb4826a63ac09f-",
+      "targetHandle": "target-a8a1c2676357455e98f1c871d35b4618-"
+    },
+    {
+      "id": "2e6bce7570534f84b5b2aab8988cf769",
+      "source": "a8a1c2676357455e98f1c871d35b4618",
+      "target": "79d09b67323c463d99588f3aa2ccc7a3",
+      "sourceHandle": "source-a8a1c2676357455e98f1c871d35b4618-",
+      "targetHandle": "target-79d09b67323c463d99588f3aa2ccc7a3-"
+    },
+    {
+      "id": "d7881b5845dc48aba5c5a1a1c7697ef7",
+      "source": "79d09b67323c463d99588f3aa2ccc7a3",
+      "target": "df28f6796f7c4fa9a8c823f63a989ba2",
+      "sourceHandle": "source-79d09b67323c463d99588f3aa2ccc7a3-",
+      "targetHandle": "target-df28f6796f7c4fa9a8c823f63a989ba2-"
+    },
+    {
+      "id": "c765dec79e90442184669f0493090dbd",
+      "source": "df28f6796f7c4fa9a8c823f63a989ba2",
+      "target": "fd4a4ac0b87c4329b5107a415f6cd25b",
+      "sourceHandle": "source-df28f6796f7c4fa9a8c823f63a989ba2-",
+      "targetHandle": "target-fd4a4ac0b87c4329b5107a415f6cd25b-"
+    },
+    {
+      "id": "ab9a162edc6c4e16acb9d7a61a82e0dd",
+      "source": "fd4a4ac0b87c4329b5107a415f6cd25b",
+      "target": "4688172032284e098a963ef45ea33c2d",
+      "sourceHandle": "source-fd4a4ac0b87c4329b5107a415f6cd25b-",
+      "targetHandle": "target-4688172032284e098a963ef45ea33c2d-"
+    },
+    {
+      "id": "b038190afbe641eda72993d8835143cb",
+      "source": "4688172032284e098a963ef45ea33c2d",
+      "target": "068e71f7d40346e59fc8db83c756c0aa",
+      "sourceHandle": "source-4688172032284e098a963ef45ea33c2d-",
+      "targetHandle": "target-068e71f7d40346e59fc8db83c756c0aa-"
+    },
+    {
+      "id": "25991701793f4643b56899654efb16ac",
+      "source": "068e71f7d40346e59fc8db83c756c0aa",
+      "target": "30aa981c40024a99bd764184c3c5aa79",
+      "sourceHandle": "source-068e71f7d40346e59fc8db83c756c0aa-",
+      "targetHandle": "target-30aa981c40024a99bd764184c3c5aa79-"
+    },
+    {
+      "id": "1c356149d0ce4314996de8701b178058",
+      "source": "30aa981c40024a99bd764184c3c5aa79",
+      "target": "30d3b497acd8410da6f276acb3946d52",
+      "sourceHandle": "source-30aa981c40024a99bd764184c3c5aa79-",
+      "targetHandle": "target-30d3b497acd8410da6f276acb3946d52-"
+    }
+  ],
+  "variables": {},
+  "strings": {
+    "en": {
+      "123506da36de44038f58228b459ce26f.title": "Dragon",
+      "123506da36de44038f58228b459ce26f.text": "Peddler of potions and trinkets!",
+      "5e147730ddee484cbc5db5652e1553d5.title": "Dragon",
+      "5e147730ddee484cbc5db5652e1553d5.text": "Keeper of comforts!",
+      "df4c92641eb84ef89bade948f696a5bb.title": "Dragon",
+      "df4c92641eb84ef89bade948f696a5bb.text": "The time for repayment has come!",
+      "fc975ebdad0d4abd9dc0172c8d4f0876.title": "Dialogue",
+      "fc975ebdad0d4abd9dc0172c8d4f0876.text": "W-Who's t-there?!?",
+      "7c046b64da074d568a1e08db154ad441.title": "Dialogue",
+      "7c046b64da074d568a1e08db154ad441.text": "You are not the Lowly Mortal I seek. Where is the Warden of The Wandering Mug?",
+      "dc8fe040fb7440d5b96923a8f7e20099.title": "Dialogue",
+      "dc8fe040fb7440d5b96923a8f7e20099.text": "Do you mean my... g-great-grand... uh... something twice removed?",
+      "317dfb207c0d428a9ee18902af7badff.title": "Dialogue",
+      "317dfb207c0d428a9ee18902af7badff.text": "The ties of blood have no relevance to me; where is this tavern's keeper?",
+      "cd492a0833704027adebf471e90656b1.title": "Dialogue",
+      "cd492a0833704027adebf471e90656b1.text": "Well, I-I'm the new owner. I've inherited this tavern. ",
+      "820cc0abf2c242109f4535a764c10862.title": "Dialogue",
+      "820cc0abf2c242109f4535a764c10862.text": "Then their debt now falls upon your shoulders. ",
+      "dcbe89e323d24155a3f620d63921f3a5.title": "Dialogue",
+      "dcbe89e323d24155a3f620d63921f3a5.text": "D-Debt?!?",
+      "e054ae112958466e9b76b962c0a1cadb.title": "Dialogue",
+      "e054ae112958466e9b76b962c0a1cadb.text": "Indeed. ",
+      "84b25925ca194e638b526e6789e77d63.title": "Dialogue",
+      "84b25925ca194e638b526e6789e77d63.text": "I wasn't told about any debt. ",
+      "84885fd5281749a594db3a7e26e89c17.title": "Dialogue",
+      "84885fd5281749a594db3a7e26e89c17.text": "A failure on your predecessor's part. However, our bargain still holds. ",
+      "734a14e9ca384eaf84cb4826a63ac09f.title": "Dialogue",
+      "734a14e9ca384eaf84cb4826a63ac09f.text": "What bargain?!",
+      "a8a1c2676357455e98f1c871d35b4618.title": "Dialogue",
+      "a8a1c2676357455e98f1c871d35b4618.text": " A Dragon's Bargain TM. With a special sort of magics known as a high interest loan. Your predecessor borrowed from my hoard to build this very tavern. ",
+      "79d09b67323c463d99588f3aa2ccc7a3.title": "Dialogue",
+      "79d09b67323c463d99588f3aa2ccc7a3.text": "Its walls, its hearth, its very foundation were built from my hoard. ",
+      "df28f6796f7c4fa9a8c823f63a989ba2.title": "Dialogue",
+      "df28f6796f7c4fa9a8c823f63a989ba2.text": "... How much do I owe?",
+      "fd4a4ac0b87c4329b5107a415f6cd25b.title": "Dialogue",
+      "fd4a4ac0b87c4329b5107a415f6cd25b.text": "Oh, nothing terribly unreasonable... 50,000 Gold. ",
+      "4688172032284e098a963ef45ea33c2d.title": "Dialogue",
+      "4688172032284e098a963ef45ea33c2d.text": "I've never even seen that much gold in my life!",
+      "068e71f7d40346e59fc8db83c756c0aa.title": "Dialogue",
+      "068e71f7d40346e59fc8db83c756c0aa.text": "Unsurprising, but the stipulations of our contract still remain. The gold must be paid in full or there will be reprisals. I suggest you find a way to obtain my gold before my new arrival. ",
+      "30aa981c40024a99bd764184c3c5aa79.title": "Dialogue",
+      "30aa981c40024a99bd764184c3c5aa79.text": "With that, I will take my leave! A good day to you. Ta-ta!"
+    }
+  },
+  "assets": {}
+}

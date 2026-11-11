@@ -1,0 +1,60 @@
+{
+  "startNode": "0",
+  "nodes": {
+    "0": {
+      "type": "start",
+      "id": "0"
+    },
+    "cdbeeef084dd48c58ba8d06e094a52a9": {
+      "type": "dialogue",
+      "id": "cdbeeef084dd48c58ba8d06e094a52a9",
+      "title": "cdbeeef084dd48c58ba8d06e094a52a9.title",
+      "text": "cdbeeef084dd48c58ba8d06e094a52a9.text",
+      "choices": []
+    },
+    "7e414b02ec8649538edbd2779446047a": {
+      "type": "dialogue",
+      "id": "7e414b02ec8649538edbd2779446047a",
+      "title": "7e414b02ec8649538edbd2779446047a.title",
+      "text": "7e414b02ec8649538edbd2779446047a.text",
+      "choices": []
+    },
+    "38bbfd9e0ed646f0abdb57bb3375e7d5": {
+      "type": "end",
+      "id": "38bbfd9e0ed646f0abdb57bb3375e7d5"
+    }
+  },
+  "connections": [
+    {
+      "id": "22cf2b21af5444e282b7b130e092c8e1",
+      "source": "0",
+      "target": "cdbeeef084dd48c58ba8d06e094a52a9",
+      "sourceHandle": "source-0-",
+      "targetHandle": "target-cdbeeef084dd48c58ba8d06e094a52a9-"
+    },
+    {
+      "id": "a2048db863634682932bcaa4f240d807",
+      "source": "7e414b02ec8649538edbd2779446047a",
+      "target": "38bbfd9e0ed646f0abdb57bb3375e7d5",
+      "sourceHandle": "source-7e414b02ec8649538edbd2779446047a-",
+      "targetHandle": "target-38bbfd9e0ed646f0abdb57bb3375e7d5-"
+    },
+    {
+      "id": "xy-edge__cdbeeef084dd48c58ba8d06e094a52a9source-cdbeeef084dd48c58ba8d06e094a52a9--7e414b02ec8649538edbd2779446047atarget-7e414b02ec8649538edbd2779446047a-",
+      "source": "cdbeeef084dd48c58ba8d06e094a52a9",
+      "target": "7e414b02ec8649538edbd2779446047a",
+      "sourceHandle": "source-cdbeeef084dd48c58ba8d06e094a52a9-",
+      "targetHandle": "target-7e414b02ec8649538edbd2779446047a-"
+    }
+  ],
+  "variables": {},
+  "strings": {
+    "en": {
+      "cdbeeef084dd48c58ba8d06e094a52a9.title": "Dialogue",
+      "cdbeeef084dd48c58ba8d06e094a52a9.text": "this is what I want the game to say.",
+      "7e414b02ec8649538edbd2779446047a.title": "Dialogue",
+      "7e414b02ec8649538edbd2779446047a.text": "hi zed"
+    }
+  },
+  "assets": {}
+}

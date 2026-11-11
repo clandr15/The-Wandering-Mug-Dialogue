@@ -1,0 +1,22 @@
+{
+    "id": "da_d15e981a0b8845bb9bcedd356a0bfbd7",
+    "name": "Dragon",
+    "parent": null,
+    "variables": [
+        {
+            "id": "cf_name",
+            "name": "Name",
+            "type": "string",
+            "value": "Dragon"
+        },
+        {
+            "id": "cf_image",
+            "name": "Image",
+            "type": "image",
+            "value": "Characters/Charizard.png"
+        }
+    ],
+    "overrides": {},
+    "previewVariableId": "cf_image",
+    "layout": {}
+}

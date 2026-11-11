@@ -1,0 +1,7 @@
+{
+    "projectName": "My first story",
+    "description": "",
+    "startupScript": "TESTScripts\\Script_01.sfe",
+    "storyflowVersion": "1.8.2",
+    "projectBackground": ""
+}

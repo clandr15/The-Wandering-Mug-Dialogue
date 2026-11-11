@@ -1,0 +1,99 @@
+{
+    "nodes": [
+        {
+            "id": "0",
+            "position": {
+                "x": -104.53155030472998,
+                "y": -75.81409142980415
+            },
+            "type": "start",
+            "data": {},
+            "sourcePosition": "right",
+            "deletable": false,
+            "measured": {
+                "width": 128,
+                "height": 40
+            },
+            "zIndex": 1
+        },
+        {
+            "id": "80944adf1c6744d8b26bad2375515449",
+            "position": {
+                "x": -102.7249664689424,
+                "y": -341.9224047730787
+            },
+            "type": "comment",
+            "data": {
+                "text": "Start by dragging from the Start node output to create your first Dialogue node. Then click that node to start editing."
+            },
+            "style": {
+                "width": 483,
+                "height": 129
+            },
+            "selectable": false,
+            "measured": {
+                "width": 483,
+                "height": 129
+            },
+            "zIndex": -1,
+            "width": 483,
+            "height": 129,
+            "resizing": true
+        },
+        {
+            "id": "a4df9e23d54343b389180ae2edbd7468",
+            "position": {
+                "x": 134.05824608351898,
+                "y": -104.27188966839691
+            },
+            "type": "dialogue",
+            "data": {
+                "title": "Dialogue",
+                "text": "",
+                "options": [],
+                "image": "",
+                "imageReset": false,
+                "character": "",
+                "audio": "",
+                "audioLoop": false,
+                "audioReset": false,
+                "audioAdvanceOnEnd": false,
+                "audioAllowSkip": false,
+                "imageUseVarInput": false,
+                "characterUseVarInput": false,
+                "audioUseVarInput": false,
+                "textBlocks": [
+                    {
+                        "id": "e58aa0c704894af5bb2b7ed93cccdf6a",
+                        "text": "New Text"
+                    },
+                    {
+                        "id": "30304810f36841d982cc6ea51cb79e91",
+                        "text": "New Text"
+                    }
+                ]
+            },
+            "style": {
+                "width": 256,
+                "height": 235
+            },
+            "zIndex": 1,
+            "measured": {
+                "width": 256,
+                "height": 235
+            },
+            "height": 235
+        }
+    ],
+    "edges": [
+        {
+            "id": "6e470b0f363b47bc938806683a721422",
+            "source": "0",
+            "sourceHandle": "source-0-",
+            "target": "a4df9e23d54343b389180ae2edbd7468",
+            "targetHandle": "target-a4df9e23d54343b389180ae2edbd7468-"
+        }
+    ],
+    "variables": [],
+    "flows": []
+}

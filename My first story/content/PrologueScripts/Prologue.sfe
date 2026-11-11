@@ -1,0 +1,507 @@
+{
+    "nodes": [
+        {
+            "id": "0",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "type": "start",
+            "data": {},
+            "sourcePosition": "right",
+            "deletable": false,
+            "measured": {
+                "width": 128,
+                "height": 40
+            },
+            "zIndex": 1
+        },
+        {
+            "id": "9477d670c21348158d3a4711a0090b37",
+            "position": {
+                "x": 169.54674303828773,
+                "y": -1.7763568394002505e-15
+            },
+            "type": "dialogue",
+            "data": {
+                "title": "Dialogue",
+                "text": "Once upon a time, in a time of fairytales and fables, there was an ambitious child who dreamed of a bigger life. ",
+                "options": [],
+                "image": "",
+                "imageReset": false,
+                "character": "",
+                "audio": "",
+                "audioLoop": false,
+                "audioReset": false,
+                "audioAdvanceOnEnd": false,
+                "audioAllowSkip": false,
+                "imageUseVarInput": false,
+                "characterUseVarInput": false,
+                "audioUseVarInput": false,
+                "textBlocks": [],
+                "dialogueColor": "red"
+            },
+            "style": {
+                "width": 256,
+                "height": 237
+            },
+            "zIndex": 1,
+            "measured": {
+                "width": 256,
+                "height": 237
+            },
+            "height": 237
+        },
+        {
+            "id": "52c449bd9fc94f57b6aabef998870b10",
+            "position": {
+                "x": 467.2386979178239,
+                "y": -1.7763568394002505e-15
+            },
+            "type": "dialogue",
+            "data": {
+                "title": "Dialogue",
+                "text": "A life of purpose.\nA life of wonder. ",
+                "options": [],
+                "image": "",
+                "imageReset": false,
+                "character": "",
+                "audio": "",
+                "audioLoop": false,
+                "audioReset": false,
+                "audioAdvanceOnEnd": false,
+                "audioAllowSkip": false,
+                "imageUseVarInput": false,
+                "characterUseVarInput": false,
+                "audioUseVarInput": false
+            },
+            "style": {
+                "width": 256,
+                "height": 140
+            },
+            "zIndex": 1,
+            "measured": {
+                "width": 256,
+                "height": 140
+            }
+        },
+        {
+            "id": "e82fd4ba505b4df78e96a6ac51a9d693",
+            "position": {
+                "x": 776.9514680775316,
+                "y": -1.7763568394002505e-15
+            },
+            "type": "dialogue",
+            "data": {
+                "title": "Dialogue",
+                "text": "But as the child grew, so too did their dream. They dreamed of a place where every stranger might have a story to tell. ",
+                "options": [],
+                "image": "",
+                "imageReset": false,
+                "character": "",
+                "audio": "",
+                "audioLoop": false,
+                "audioReset": false,
+                "audioAdvanceOnEnd": false,
+                "audioAllowSkip": false,
+                "imageUseVarInput": false,
+                "characterUseVarInput": false,
+                "audioUseVarInput": false,
+                "textBlocks": []
+            },
+            "style": {
+                "width": 256,
+                "height": 201
+            },
+            "zIndex": 1,
+            "measured": {
+                "width": 256,
+                "height": 201
+            },
+            "height": 201
+        },
+        {
+            "id": "ecab1c30251a497298039376e11a2f7e",
+            "position": {
+                "x": 1092.3210924867315,
+                "y": -1.7763568394002505e-15
+            },
+            "type": "dialogue",
+            "data": {
+                "title": "Dialogue",
+                "text": "It was a dream so big, it seemed almost impossible to make true. Until one day, a scroll arrived. ",
+                "options": [],
+                "image": "",
+                "imageReset": false,
+                "character": "",
+                "audio": "",
+                "audioLoop": false,
+                "audioReset": false,
+                "audioAdvanceOnEnd": false,
+                "audioAllowSkip": false,
+                "imageUseVarInput": false,
+                "characterUseVarInput": false,
+                "audioUseVarInput": false
+            },
+            "style": {
+                "width": 256,
+                "height": 177
+            },
+            "zIndex": 1,
+            "measured": {
+                "width": 256,
+                "height": 177
+            },
+            "height": 177
+        },
+        {
+            "id": "f81e82413f7940bebdec7fe641227570",
+            "position": {
+                "x": 1399.8272061021585,
+                "y": -1.7763568394002505e-15
+            },
+            "type": "dialogue",
+            "data": {
+                "title": "Dialogue",
+                "text": "The scroll spoke of a distant relative. A relative the dreamer had never met. ",
+                "options": [],
+                "image": "",
+                "imageReset": false,
+                "character": "",
+                "audio": "",
+                "audioLoop": false,
+                "audioReset": false,
+                "audioAdvanceOnEnd": false,
+                "audioAllowSkip": false,
+                "imageUseVarInput": false,
+                "characterUseVarInput": false,
+                "audioUseVarInput": false
+            },
+            "style": {
+                "width": 256,
+                "height": 153
+            },
+            "zIndex": 1,
+            "measured": {
+                "width": 256,
+                "height": 153
+            },
+            "height": 153
+        },
+        {
+            "id": "801faa595f664de1aa4ca3b5f8de42ca",
+            "position": {
+                "x": 1709.4813307946579,
+                "y": -1.7763568394002505e-15
+            },
+            "type": "dialogue",
+            "data": {
+                "title": "Dialogue",
+                "text": "They had recently passed away, leaving behind a small tavern at the edge of the kingdom. ",
+                "options": [],
+                "image": "",
+                "imageReset": false,
+                "character": "",
+                "audio": "",
+                "audioLoop": false,
+                "audioReset": false,
+                "audioAdvanceOnEnd": false,
+                "audioAllowSkip": false,
+                "imageUseVarInput": false,
+                "characterUseVarInput": false,
+                "audioUseVarInput": false,
+                "textBlocks": []
+            },
+            "style": {
+                "width": 256,
+                "height": 237
+            },
+            "zIndex": 1,
+            "measured": {
+                "width": 256,
+                "height": 237
+            },
+            "height": 237
+        },
+        {
+            "id": "ec28173156a14fbeba5a3429d3998df9",
+            "position": {
+                "x": 2030.8481410547224,
+                "y": -1.7763568394002505e-15
+            },
+            "type": "dialogue",
+            "data": {
+                "title": "Dialogue",
+                "text": "A place where travelers came to rest. ",
+                "options": [],
+                "image": "",
+                "imageReset": false,
+                "character": "",
+                "audio": "",
+                "audioLoop": false,
+                "audioReset": false,
+                "audioAdvanceOnEnd": false,
+                "audioAllowSkip": false,
+                "imageUseVarInput": false,
+                "characterUseVarInput": false,
+                "audioUseVarInput": false
+            },
+            "style": {
+                "width": 256,
+                "height": 140
+            },
+            "zIndex": 1,
+            "measured": {
+                "width": 256,
+                "height": 140
+            }
+        },
+        {
+            "id": "d9c29719e69a45a489c4fc7605dfef6d",
+            "position": {
+                "x": 2365.3917225782975,
+                "y": -0.00004788723657789262
+            },
+            "type": "dialogue",
+            "data": {
+                "title": "Dialogue",
+                "text": "A place where stories were shared. ",
+                "options": [],
+                "image": "",
+                "imageReset": false,
+                "character": "",
+                "audio": "",
+                "audioLoop": false,
+                "audioReset": false,
+                "audioAdvanceOnEnd": false,
+                "audioAllowSkip": false,
+                "imageUseVarInput": false,
+                "characterUseVarInput": false,
+                "audioUseVarInput": false
+            },
+            "style": {
+                "width": 256,
+                "height": 140
+            },
+            "zIndex": 1,
+            "measured": {
+                "width": 256,
+                "height": 140
+            }
+        },
+        {
+            "id": "01d2bbaec0ee4871a0847801e932e9bf",
+            "position": {
+                "x": 2677.2419758147157,
+                "y": -1.7763568394002505e-15
+            },
+            "type": "dialogue",
+            "data": {
+                "title": "Dialogue",
+                "text": "A place where, perhaps, a dream might finally begin. ",
+                "options": [],
+                "image": "",
+                "imageReset": false,
+                "character": "",
+                "audio": "",
+                "audioLoop": false,
+                "audioReset": false,
+                "audioAdvanceOnEnd": false,
+                "audioAllowSkip": false,
+                "imageUseVarInput": false,
+                "characterUseVarInput": false,
+                "audioUseVarInput": false
+            },
+            "style": {
+                "width": 256,
+                "height": 140
+            },
+            "zIndex": 1,
+            "measured": {
+                "width": 256,
+                "height": 140
+            }
+        },
+        {
+            "id": "39f93f2c5527426e87004e383c2fffa0",
+            "position": {
+                "x": 3013.981685882209,
+                "y": -1.7763568394002505e-15
+            },
+            "type": "dialogue",
+            "data": {
+                "title": "Dialogue",
+                "text": "A place also known as... ",
+                "options": [],
+                "image": "",
+                "imageReset": false,
+                "character": "",
+                "audio": "",
+                "audioLoop": false,
+                "audioReset": false,
+                "audioAdvanceOnEnd": false,
+                "audioAllowSkip": false,
+                "imageUseVarInput": false,
+                "characterUseVarInput": false,
+                "audioUseVarInput": false
+            },
+            "style": {
+                "width": 256,
+                "height": 140
+            },
+            "zIndex": 1,
+            "measured": {
+                "width": 256,
+                "height": 140
+            }
+        },
+        {
+            "id": "d931fa05568648c88bbd17e9b25c1192",
+            "position": {
+                "x": 3314.851296399035,
+                "y": -1.7763568394002505e-15
+            },
+            "type": "dialogue",
+            "data": {
+                "title": "Dialogue",
+                "text": "The Wandering Mug. ",
+                "options": [],
+                "image": "",
+                "imageReset": false,
+                "character": "",
+                "audio": "",
+                "audioLoop": false,
+                "audioReset": false,
+                "audioAdvanceOnEnd": false,
+                "audioAllowSkip": false,
+                "imageUseVarInput": false,
+                "characterUseVarInput": false,
+                "audioUseVarInput": false,
+                "textBlocks": []
+            },
+            "style": {
+                "width": 256,
+                "height": 140
+            },
+            "zIndex": 1,
+            "measured": {
+                "width": 256,
+                "height": 140
+            }
+        },
+        {
+            "id": "d0d91f33e6df49d8b3f2ffe1cac4f979",
+            "position": {
+                "x": 3630.361763875317,
+                "y": -1.7763568394002505e-15
+            },
+            "type": "end",
+            "data": {},
+            "zIndex": 1,
+            "measured": {
+                "width": 128,
+                "height": 40
+            }
+        }
+    ],
+    "edges": [
+        {
+            "id": "3b33651cc17545869d5164ae2a9ddcae",
+            "source": "0",
+            "sourceHandle": "source-0-",
+            "target": "9477d670c21348158d3a4711a0090b37",
+            "targetHandle": "target-9477d670c21348158d3a4711a0090b37-",
+            "selected": false
+        },
+        {
+            "id": "ebf1d3a8db0d434d9fde2657bd839a96",
+            "source": "52c449bd9fc94f57b6aabef998870b10",
+            "sourceHandle": "source-52c449bd9fc94f57b6aabef998870b10-",
+            "target": "e82fd4ba505b4df78e96a6ac51a9d693",
+            "targetHandle": "target-e82fd4ba505b4df78e96a6ac51a9d693-",
+            "selected": false
+        },
+        {
+            "id": "26e55e512e01407c862f3d640549acc3",
+            "source": "e82fd4ba505b4df78e96a6ac51a9d693",
+            "sourceHandle": "source-e82fd4ba505b4df78e96a6ac51a9d693-",
+            "target": "ecab1c30251a497298039376e11a2f7e",
+            "targetHandle": "target-ecab1c30251a497298039376e11a2f7e-",
+            "selected": false
+        },
+        {
+            "id": "cd64aa5ebe324f7b9f93c3927b7e870b",
+            "source": "ecab1c30251a497298039376e11a2f7e",
+            "sourceHandle": "source-ecab1c30251a497298039376e11a2f7e-",
+            "target": "f81e82413f7940bebdec7fe641227570",
+            "targetHandle": "target-f81e82413f7940bebdec7fe641227570-",
+            "selected": false
+        },
+        {
+            "id": "dc264c3923d447dc84459ddaed5e69a1",
+            "source": "f81e82413f7940bebdec7fe641227570",
+            "sourceHandle": "source-f81e82413f7940bebdec7fe641227570-",
+            "target": "801faa595f664de1aa4ca3b5f8de42ca",
+            "targetHandle": "target-801faa595f664de1aa4ca3b5f8de42ca-",
+            "selected": false
+        },
+        {
+            "id": "75d7a8e823914564948caac9b0b56cb5",
+            "source": "801faa595f664de1aa4ca3b5f8de42ca",
+            "sourceHandle": "source-801faa595f664de1aa4ca3b5f8de42ca-",
+            "target": "ec28173156a14fbeba5a3429d3998df9",
+            "targetHandle": "target-ec28173156a14fbeba5a3429d3998df9-",
+            "selected": false
+        },
+        {
+            "id": "60044f356b8c48f097eccebfb9117fc4",
+            "source": "ec28173156a14fbeba5a3429d3998df9",
+            "sourceHandle": "source-ec28173156a14fbeba5a3429d3998df9-",
+            "target": "d9c29719e69a45a489c4fc7605dfef6d",
+            "targetHandle": "target-d9c29719e69a45a489c4fc7605dfef6d-",
+            "selected": false
+        },
+        {
+            "id": "6b4bb5ba273a453ab62a2c504661f7b7",
+            "source": "d9c29719e69a45a489c4fc7605dfef6d",
+            "sourceHandle": "source-d9c29719e69a45a489c4fc7605dfef6d-",
+            "target": "01d2bbaec0ee4871a0847801e932e9bf",
+            "targetHandle": "target-01d2bbaec0ee4871a0847801e932e9bf-",
+            "selected": false
+        },
+        {
+            "id": "a10eac43786340729c406e55f516ab8d",
+            "source": "01d2bbaec0ee4871a0847801e932e9bf",
+            "sourceHandle": "source-01d2bbaec0ee4871a0847801e932e9bf-",
+            "target": "39f93f2c5527426e87004e383c2fffa0",
+            "targetHandle": "target-39f93f2c5527426e87004e383c2fffa0-",
+            "selected": false
+        },
+        {
+            "id": "f9295408558945d4ac8637e72fffc2b9",
+            "source": "39f93f2c5527426e87004e383c2fffa0",
+            "sourceHandle": "source-39f93f2c5527426e87004e383c2fffa0-",
+            "target": "d931fa05568648c88bbd17e9b25c1192",
+            "targetHandle": "target-d931fa05568648c88bbd17e9b25c1192-",
+            "selected": false
+        },
+        {
+            "id": "baffe5a089df42078d9228093f9259e9",
+            "source": "d931fa05568648c88bbd17e9b25c1192",
+            "sourceHandle": "source-d931fa05568648c88bbd17e9b25c1192-",
+            "target": "d0d91f33e6df49d8b3f2ffe1cac4f979",
+            "targetHandle": "target-d0d91f33e6df49d8b3f2ffe1cac4f979-",
+            "selected": false
+        },
+        {
+            "source": "9477d670c21348158d3a4711a0090b37",
+            "sourceHandle": "source-9477d670c21348158d3a4711a0090b37-",
+            "target": "52c449bd9fc94f57b6aabef998870b10",
+            "targetHandle": "target-52c449bd9fc94f57b6aabef998870b10-",
+            "id": "xy-edge__9477d670c21348158d3a4711a0090b37source-9477d670c21348158d3a4711a0090b37--52c449bd9fc94f57b6aabef998870b10target-52c449bd9fc94f57b6aabef998870b10-",
+            "selected": false
+        }
+    ],
+    "variables": [],
+    "flows": []
+}
