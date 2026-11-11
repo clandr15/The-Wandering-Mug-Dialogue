@@ -25,7 +25,41 @@
             "type": "dialogue",
             "data": {
                 "title": "Dialogue",
-                "text": "this is a test\n",
+                "text": "this is a test for github.\n",
+                "options": [],
+                "image": "",
+                "imageReset": false,
+                "character": "",
+                "audio": "",
+                "audioLoop": false,
+                "audioReset": false,
+                "audioAdvanceOnEnd": false,
+                "audioAllowSkip": false,
+                "imageUseVarInput": false,
+                "characterUseVarInput": false,
+                "audioUseVarInput": false
+            },
+            "style": {
+                "width": 256,
+                "height": 153
+            },
+            "zIndex": 1,
+            "measured": {
+                "width": 256,
+                "height": 153
+            },
+            "height": 153
+        },
+        {
+            "id": "9e7403065f5344f8bf023b06c374feeb",
+            "position": {
+                "x": 589.7666422154915,
+                "y": 19.90487287254757
+            },
+            "type": "dialogue",
+            "data": {
+                "title": "Dialogue",
+                "text": "this is a test for github on my laptop. ",
                 "options": [],
                 "image": "",
                 "imageReset": false,
@@ -57,6 +91,13 @@
             "sourceHandle": "source-0-",
             "target": "b46f790297fb456b96f63bf3f7623bbd",
             "targetHandle": "target-b46f790297fb456b96f63bf3f7623bbd-"
+        },
+        {
+            "id": "48db832c55eb46978cb2bd97d3857770",
+            "source": "b46f790297fb456b96f63bf3f7623bbd",
+            "sourceHandle": "source-b46f790297fb456b96f63bf3f7623bbd-",
+            "target": "9e7403065f5344f8bf023b06c374feeb",
+            "targetHandle": "target-9e7403065f5344f8bf023b06c374feeb-"
         }
     ],
     "variables": [],
